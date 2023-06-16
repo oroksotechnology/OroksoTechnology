@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Orokso Technology  | Front</title>
+    
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="scroll-up-btn">
+        <ion-icon name="chevron-up-outline"></ion-icon>
+    </div>
+    <div class="navbar">
+        <div class="max-width">
+            <div class="logo"><a href="#">Orokso<span>Technology</span></a></div>
+            <ul class="menu">
+                <li><a href="#home">Dungeons</a></li>
+                <li><a href="#about">Arena</a></li>
+                <li><a href="#services">Ar livre</a></li>
+                <li><a href="#skills">Perguntas</a></li>
+                <li><a href="/D:/3 Módulo/Site-TCC/Site ETEC-TCC/Principal/Home principal/index.html">Voltar</a></li>
+            </ul>
+            <div class="menu-btn">
+                <ion-icon name="menu-outline"></ion-icon>
+            </div>
+        </div>
+    </div>
+
+    <!--home inicio-->
+    <section class="home" id="home">
+        <div class="max-width">
+            <div class="home-content">
+                <div class="text-1">Informações sobre os nossos</div>
+                <div class="text-2">Sistemas Disponiveis</div>
+                <div class="text-3"><span class="typing"></span></div>
+
+            </div>
+        </div>
+    </section>
+
+    <!--sessão materias-->
+   
+
+
+    <!--Começo-da-seção-materia-->
+
+        <!-- MATEMATICA II -->    
+
+    <section class="background-color-Sobre">
+        <div class="main-sobre">
+            <img src="img/Cen-dungeon.jpeg">
+            <div class="Text-sobre">
+                <h2>Dungeons</h2>
+                <p>As dungeos dentro estão disponiveis na maior parte do nosso jogo, dentro delas será onde você irá enfrentar diversos desafios e aprender com eles.</p>
+<!--Button-->
+            </div><!--Text-sobre-->
+        </div><!--main-sobre-->
+    </section><!--background-color-Sobre-->
+
+
+
+
+    <!--sessão sobre 02-->
+   
+
+
+    <!--Começo-da-seção-sobre 02-->
+
+              <!-- HISTORIA II -->
+
+    <section class="background-color-Sobre-2">
+        <div class="main-sobre-2">
+            <img src="img/cen-arena.jpeg">
+            <div class="Text-sobre-2">
+                <h2>Arena</h2>
+                <p>Nas Arenas será onde você sera enviado caso erre alguma pergunta, mas não se preocupe, você apenas irá ter que lidar com alguns inofensivos bichinhos verdes e gosmentos.</p>
+<!--Button-->
+            </div><!--Text-sobre-->
+        </div><!--main-sobre-->
+    </section><!--background-color-Sobre-->
+
+
+          
+
+                       <!-- BIOLOGIA I -->
+
+    <section class="background-color-Sobre">
+        <div class="main-sobre">
+            <img src="img/Cen-arlivre.jpeg">
+            <div class="Text-sobre">
+                <h2>Ar Livre</h2>
+                <p>Nas partes ao ar livre serão as mais pacificas, você apenas ira passar por elas em transição de uma materia até a outra, porem cuidado, as vezes elas podem não ser tão pacificas assim.</p>
+<!--Button-->
+            </div><!--Text-sobre-->
+        </div><!--main-sobre-->
+    </section><!--background-color-Sobre-->
+
+
+                          <!-- GEOGRAFIA II -->
+    <section class="background-color-Sobre-2">
+        <div class="main-sobre-2">
+            <img src="img/Cen-perg.jpeg">
+            <div class="Text-sobre-2">
+                <h2>Perguntas</h2>
+                <p>Dentro das nossas Dungeons será onde você irá encontrar a perguntas, sempre haverá tres opções de respostas, com apenas uma certa, então pense bem antes de escolher</p>
+<!--Button-->
+            </div><!--Text-sobre-->
+        </div><!--main-sobre-->
+    </section><!--background-color-Sobre-->
+
+
+
+
+
+
+
+    <!--sessão  footer-->
+    <footer>
+        <span><a href="#">Orokso Technology</a> </span>
+    </footer>
+
+    <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="script.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/jquery.waypoints.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.12/typed.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
+
+</body>
+</html>
+
+  

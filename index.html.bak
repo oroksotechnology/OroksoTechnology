@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Orokso Technology  | Front</title>
+    
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="scroll-up-btn">
+        <ion-icon name="chevron-up-outline"></ion-icon>
+    </div>
+    <div class="navbar">
+        <div class="max-width">
+            <div class="logo"><a href="#">Orokso<span>Technology</span></a></div>
+            <ul class="menu">
+                <li><a href="#home">Inicio</a></li>
+                <li><a href="#about">Sobre</a></li>
+                <li><a href="#services">informações</a></li>
+                <li><a href="#skills">Especialidade</a></li>
+                <li><a href="#teams">Equipe</a></li>
+                <li><a href="#contact">Contato</a></li>
+            </ul>
+            <div class="menu-btn">
+                <ion-icon name="menu-outline"></ion-icon>
+            </div>
+        </div>
+    </div>
+
+    <!--home inicio-->
+    <section class="home" id="home">
+        <div class="max-width">
+            <div class="home-content">
+                <div class="text-1">Ola, nós somos a equipe</div>
+                <div class="text-2">Orokso Technology</div>
+                <div class="text-3">desenvolvedores do jogo <span class="typing"></span></div>
+                <a href="#">Veja</a>
+            </div>
+        </div>
+    </section>
+
+    <!--sessão sobre-->
+    <section class="about" id="about">
+        <div class="max-width">
+            <h2 class="title">Sobre</h2>
+            <div class="about-content">
+                <div class="column left">
+                    <img src="img/Logo.png" alt="">
+                </div>
+                <div class="column right">
+                    <div class="text">Somos a equipe <span class="typing-2"></span></div>
+                    <p>Somos equipe formadas por 6 integrantes, envolvendo designers, designers 2d, progamadores web e programadores *******. 
+                        Nossa Equipe tem como objetivo desenvolver nosso projeto chamado "Duzzles", que é um jogo no qual o objetivo é educar as crianças
+                         atraves dele, tornando o ensino mais dinamico.  </p>
+                    <a href="#">Nosso Instagram</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+     <!--sessão serviços-->
+     <section class="services" id="services">
+        <div class="max-width">
+            <h2 class="title">informações</h2>
+            <div class="serv-content">
+               <div class="card"><a href="Abas/Materias/teste/teste.html">
+                   <div class="box">
+                    <ion-icon name="book-outline"></ion-icon>
+                    <div class="text">Materias</div>
+                    <p>Curta explicação sobre as materias disponiveis no nosso jogo</p>
+                   </div>
+               </div></a>
+
+               <div class="card"><a href="Abas/Personagens/Index.html">
+                <div class="box">
+                    <ion-icon name="accessibility-outline"></ion-icon>
+                 <div class="text">Personagens</div>
+                 <p>Curta demonstração dos personagens presentes no nosso jogo</p>
+                </div>
+            </div></a>
+
+            <div class="card"><a href="Abas/Mapa/Index.html">
+                <div class="box">
+                    <ion-icon name="earth-outline"></ion-icon>
+                 <div class="text">Mapa</div>
+                 <p>Curta demonstração de alguns pedaços do nosso mapa e mecanicas presentes</p>
+                </div>
+            </div>
+            </div></div></a>
+        </div>
+    </section>
+
+     <!--sessão especialidade-->
+
+
+     <!--sessão equipe-->
+     <section class="teams" id="teams">
+        <div class="max-width">
+            <h2 class="title">Minha Equipe</h2>
+           <div class="carousel owl-carousel ">
+               <div class="card">
+                   <div class="box">
+                       <img src="img/arthurimg1.jpg" alt="">
+                       <div class="text">Arthur</div>
+                       <p>Progamador *******. Fica encarregado da programação do jogo, desenvolvendo seus sistemas</p>
+                   </div>
+               </div>
+               <div class="card">
+                <a href="https://www.instagram.com/matheuss_is/"><div class="box">
+                    <img src="img/matheusimg2.png" alt="">
+                    <div class="text">Matheus</div>
+                    <p>Designer Digital e 2D. Fica encarregado do design de logos, posts instagram e design do cenario e itens do jgo </p>
+                </div>
+            </div></a>
+            <div class="card">
+                <a href="https://www.instagram.com/joaldo_santh/"><div class="box">
+                    <img src="img/jojoimg3.png" alt="">
+                    <div class="text">Joaldo</div>
+                    <p>Design 2D. Fica encarregado do design dos itens e cenario do jogo</p>
+                </div>
+            </div></a>
+            <div class="card">
+                <a href="https://www.instagram.com/viieiraerik/"><div class="box">
+                    <img src="img/erickimg4.png" alt="">
+                    <div class="text">Erik</div>
+                    <p>Programador WEB. Fica encarregado no suporte e programação do site</p>
+                </div>
+            </div></a>
+            <div class="card">
+                <a href="https://www.instagram.com/allmeida_bruno/" ><div class="box" >
+                    <img src="img/negaoimg5.png" alt="">
+                    <div class="text">Bruno H.</div>
+                    <p>Programado *****. Fica encarregado no suporte e programação dos sistemas do jogo</p>
+                </div>
+            </div></a>
+
+            <div class="card">
+                <a href="https://www.instagram.com/brunoo.r.f/"><div class="box">
+                    <img src="img/projetinhoimg1.png" alt="">
+                    <div class="text">Bruno R.</div>
+                    <p>Programador WEB, Designer Digital e Designer 2D. Fica encarregado da programação do site, design dos posts do instagram,
+                        design do layout do site e design de alguns modelos de cenario dentro do jogo
+                    </p>
+                </div>
+            </div></a>
+           </div>
+        </div>
+    </section>
+
+    <!--Sessão contato-->
+    <section class="contact" id="contact">
+        <div class="max-width">
+            <h2 class="title">Contato</h2>
+            <div class="contact-content">
+               <div class="column left">
+                   <div class="text">Fale Conosco</div>
+                   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas impedit laudantium saepe, voluptate libero fugiat in, dolores voluptatem distinctio animi et iusto, amet possimus tenetur modi cupiditate. Odio, numquam fuga perferendis vitae ullam eum, ipsam tempora unde nisi optio vero recusandae ipsa asperiores rem, labore impedit laudantium officiis maiores natus.</p>
+               
+               <div class="icons">
+                   <div class="row">
+                        <ion-icon name="person-outline"></ion-icon>
+                        <div class="info">
+                            <div class="head">Nome</div>
+                            <div class="sub-title">Ricardo Ferreira</div>
+                        </div>
+                   </div>
+                   <div class="row">
+                    <ion-icon name="earth-outline"></ion-icon>
+                    <div class="info">
+                        <div class="head">Endereço</div>
+                        <div class="sub-title">Campo Grande, MS</div>
+                    </div>
+               </div>
+               <div class="row">
+                <ion-icon name="person-outline"></ion-icon>
+                <div class="info">
+                    <div class="head">Email</div>
+                    <div class="sub-title">aeiou@gmail.com</div>
+                </div>
+           </div>
+               </div>
+            </div><!--column left-->
+        <div class="column rigth">
+		<div class="row">
+            <form action="https://api.staticforms.xyz/submit" method="POST" enctype="text/plain">     
+                <input type="hidden" name="accessKey" value="3a6eaa76-0c4d-408d-b638-0e0f8b8aa240">
+				<input type="hidden" name="redirectTo" value="index.html">
+				<div class="text">Contato</div>
+            <form action="#">
+                    <div class="fields">
+                        <div class="field name">
+                            <input type="text" placeholder="Nome completo" id="inputNome" name="name" required maxlength="25" minlength="2">
+							<span></span>
+                        </div>
+                        <div class="field email">
+                            <input type="email" placeholder="Email" id="inputEmail" name="email" required maxlength="50">
+							<span></span>
+                        </div>
+                    </div>
+                <div class="field">
+                        <div class="field textarea">
+                           <textarea name="message" id="textAreaMensagem" cols="30" rows="10" placeholder="Mensagem..." required maxlength="100"></textarea>
+						   <span></span>
+                        </div>
+                    <div class="button">
+                            <button onclick="alert('Feedback enviado com sucesso')">
+							Enviar</button>
+                    </div>
+				</div>
+            </form>
+			</form>
+		</div>
+		</div>
+</section>
+
+    <!--sessão  footer-->
+    <footer>
+        <span><a href="#">Orokso Technology</a> </span>
+    </footer>
+
+    <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="script.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/jquery.waypoints.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.12/typed.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
+
+</body>
+</html>
