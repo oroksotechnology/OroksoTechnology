@@ -68,7 +68,7 @@ html{
 /*  Home   inicio  */
 .home{
     display: flex;
-    background: url(img/Tela-Principal-Home.jpeg) no-repeat;
+    background: url(img/Aluno-Prin.jpg) no-repeat;
     background-size: cover;
     height: 100vh;
     color: #fff;
