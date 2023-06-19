@@ -68,7 +68,7 @@ html{
 /*  Home   inicio  */
 .home{
     display: flex;
-    background: url(img/Aluno-Prin.jpg) no-repeat;
+    background: url(img/Aluno-Prin-2.jpg) no-repeat;
     background-size: cover;
     height: 100vh;
     color: #fff;
